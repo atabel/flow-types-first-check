@@ -1,0 +1,10 @@
+{
+  "name": "flow-types-first-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abel Toledano <atoledano@tuenti.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.134.0"
+  }
+}
